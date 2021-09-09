@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "matrix2d",
+      "rootUri": "file:///C:/Users/takuy/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/matrix2d-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "UMD_Tools",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-09-09T16:41:29.892185Z",
+  "generator": "pub",
+  "generatorVersion": "2.13.4"
+}
