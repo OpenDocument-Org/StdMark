@@ -8,13 +8,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "CUMO_Transer",
+      "name": "cumo_transer",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.10"
     }
   ],
-  "generated": "2021-09-09T16:43:19.504657Z",
+  "generated": "2021-09-09T17:36:09.942558Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }
