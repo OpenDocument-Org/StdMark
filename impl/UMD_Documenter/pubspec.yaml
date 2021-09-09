@@ -1,0 +1,8 @@
+name: UMD_Documenter
+desc: Object Element Manager Library of Universal MarkDown Format
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dependencies:
+  matrix2d: ^1.0.0
