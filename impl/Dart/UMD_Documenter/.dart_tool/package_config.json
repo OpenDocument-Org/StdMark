@@ -11,10 +11,10 @@
       "name": "umd_documenter",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.10"
+      "languageVersion": "2.13"
     }
   ],
-  "generated": "2021-09-09T17:36:22.428768Z",
+  "generated": "2021-09-10T06:39:51.773278Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }
