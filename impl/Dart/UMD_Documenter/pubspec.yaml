@@ -1,9 +1,10 @@
 name: umd_documenter
 description: Object Element Manager Library of Universal MarkDown Format
-version: 0.1.0
+version: 0.1.1
+repository: https://github.com/OpenDocument-Org/UMD_Format
 
 environment:
-  sdk: ">=2.10.0 <3.0.0"
+  sdk: ">=2.15.0 <3.0.0"
 
 dependencies:
   matrix2d: ^1.0.0

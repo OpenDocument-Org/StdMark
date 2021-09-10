@@ -14,14 +14,14 @@
 
 ### Dart
 
-> [Pub.dev](pub.dev)にて提供
+> [Pub.dev](https://pub.dev)にて提供
 
-- **[umd_tools](pub.dev/packages/umd_tools)**: UMD のパーサ、トランスコンパイラ、そのほかツールキットを提供する基礎的なパッケージ
-  - 進捗 1%　　[README](./UMD_Tools/README.md)　[LICENSE](./UMD_Tools/LICENSE)
-- **[umd_documenter](pub.dev/packages/umd_documenter)**: UMD ドキュメントをオブジェクト要素として扱うためのパッケージ
-  - 進捗 60%　　[README](./UMD_Documenter/README.md)　[LICENSE](./UMD_Documenter/LICENSE)
-- **[cumo_transer](pub.dev/packages/cumo_transer)**: UMD オブジェクト要素を記述するのに特化した DSL である CUMO のパッケージ
-  - 進捗 1%　　[README](./CUMO_Transer/README.md)　[LICENSE](./CUMO_Transer/LICENSE)
+- **[umd_tools](https://pub.dev/packages/umd_tools)**: UMD のパーサ、トランスコンパイラ、そのほかツールキットを提供する基礎的なパッケージ
+  - 進捗 1%　　[README](./impl/Dart/UMD_Tools/README.md)　[LICENSE](./impl/Dart/UMD_Tools/LICENSE)
+- **[umd_documenter](https://pub.dev/packages/umd_documenter)**: UMD ドキュメントをオブジェクト要素として扱うためのパッケージ
+  - 進捗 60%　　[README](./impl/Dart/UMD_Documenter/README.md)　[LICENSE](./impl/Dart/UMD_Documenter/LICENSE)
+- **[cumo_transer](https://pub.dev/packages/cumo_transer)**: UMD オブジェクト要素を記述するのに特化した DSL である CUMO のパッケージ
+  - 進捗 1%　　[README](./impl/Dart/UMO_Transer/README.md)　[LICENSE](./impl/Dart/CUMO_Transer/LICENSE)
 
 ### Rust
 
