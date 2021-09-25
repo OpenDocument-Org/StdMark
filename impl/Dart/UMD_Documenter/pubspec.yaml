@@ -1,6 +1,6 @@
 name: umd_documenter
 description: Object Element Manager Library of Universal MarkDown Format. This package allows to handle Universal MarkDown Format in Dart app, like Flutter, AngularDart, Aqueduct, etc.
-version: 0.1.3
+version: 0.1.5
 repository: https://github.com/OpenDocument-Org/UMD_Format
 
 environment:
