@@ -1,4 +1,4 @@
-import "package:UMD_Documenter/styles.dart";
+import "package:umd_documenter/styles.dart";
 
 
 //MarkDown System

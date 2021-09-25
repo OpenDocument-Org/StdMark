@@ -1,5 +1,5 @@
-import "package:UMD_Documenter/bases.dart";
-import "package:UMD_Documenter/styles.dart";
+import "package:umd_documenter/bases.dart";
+import "package:umd_documenter/styles.dart";
 
 
 class Caption{

@@ -1,4 +1,4 @@
-import "package:UMD_Documenter/bases.dart";
-import "package:UMD_Documenter/elements/elements.dart";
+import "package:umd_documenter/bases.dart";
+import "package:umd_documenter/elements/elements.dart";
 
 class MDLiqidTag extends MDElm{}

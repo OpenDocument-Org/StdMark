@@ -1,6 +1,6 @@
-import "package:UMD_Documenter/bases.dart";
-import "package:UMD_Documenter/elements.dart";
-import "package:UMD_Documenter/commonLib.dart";
+import "package:umd_documenter/bases.dart";
+import "package:umd_documenter/elements.dart";
+import "package:umd_documenter/commonLib.dart";
 
 import "package:matrix2d/matrix2d.dart";
 
